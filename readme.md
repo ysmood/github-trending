@@ -15,6 +15,15 @@ Before we do a project, we'd better ask why we want to do it and how to measure 
 ### To Answer the Why
 
 Github has its trending of repositories, but they are mainly based on the stars of everyone, but you are not everyone.
-So it would be nice to create a trending based ourselves to help us to find more high-quality projects that fit your needs.
+So it would be nice to create a trending based ourselves to help us to find more high-quality projects that fit our own needs.
 
-### To Answer How to Measure
+### How to Measure
+
+This trending problem can be translated as a sorting problem. We sort the repositories by their star diff then find out the tops ones.
+
+- Do the top repositories still look good after we manually read their code?
+
+- Do the higher-ranked generally look better than the lower-ranked after we manually read their code?
+
+It's pretty intuitive to come up with the first question, but if we don't have the second question, it's easy to design something that only works well partially.
+Usually the more good measurements the better the final product will be. So you can have more to guide your design. For this tutorial, we will focus on those two.
