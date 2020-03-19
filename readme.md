@@ -29,6 +29,11 @@ This trending problem can be translated as a sorting problem. We sort the reposi
 It's pretty intuitive to come up with the first question, but if we don't have the second question, it's easy to design something that only works well partially.
 Usually the more good measurements the better final product will be. For this tutorial, we will focus on those two.
 
-## Hello World
+## Design the Weight Algorithm
 
+We need a way to weight the repositories so that we can sort them. 
 
+## The Approach
+
+When doing web scraping we usually prefer to use the website's API direct to get the data we care,
+but for beginners, it's usually more intuitive to scrape via the HTML pages. This tutorial will focus on HTML based scraping.
