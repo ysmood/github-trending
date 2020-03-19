@@ -10,7 +10,7 @@ If you already know them, you can skip some parts of the tutorial.
 
 ## Goal
 
-Before we do a project, we'd better ask why we want to do it and how to measure the result, those are like our compass to prevent us from getting lost.
+Before we do a project, we'd better ask why we want to do it and how to measure the result, these the compass to prevent us from getting lost.
 
 ### To Answer the Why
 
