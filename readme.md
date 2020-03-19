@@ -31,7 +31,8 @@ Usually the more good measurements the better final product will be. For this tu
 
 ## Design the Weight Algorithm
 
-We need a way to weight the repositories so that we can sort them. 
+How to score a repository by its quality? What will make you think a repository's quality is high? What cards do we have?
+For Github we have 
 
 ## The Approach
 
