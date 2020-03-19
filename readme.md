@@ -5,8 +5,8 @@ The goal is to scrape data from GitHub and rank the repositories based on the re
 
 The knowledge required is just a basic understanding of coding.
 
-To get the job done, we only need basic Golang and HTML knowledge.
-This tutorial will assume you don't know anything about Golang or HTML.
+To get the job done, we only need basic HTML and Golang knowledge.
+This tutorial will assume you don't know anything about HTML or Golang.
 If you already know them, you can skip some parts of the tutorial.
 
 ## Goal
@@ -29,4 +29,6 @@ This trending problem can be translated as a sorting problem. We sort the reposi
 It's pretty intuitive to come up with the first question, but if we don't have the second question, it's easy to design something that only works well partially.
 Usually the more good measurements the better final product will be. For this tutorial, we will focus on those two.
 
-## 
+## Hello World
+
+
