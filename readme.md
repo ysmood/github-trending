@@ -19,7 +19,7 @@ So it would be nice to create a trending based ourselves to help us to find more
 
 ### How to Measure
 
-This trending problem can be translated as a sorting problem. We sort the repositories by their star diff then find out the tops ones.
+This trending problem can be translated as a sorting problem. We sort the repositories by their star diff then find out the top ones.
 
 - Do the top repositories still look good after we manually read their code?
 
