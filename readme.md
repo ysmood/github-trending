@@ -1,7 +1,7 @@
 # Github Trending
 
 This project is a tutorial for developers who want to learn basic knowledge about web scraping.
-The goal is to scrape data from GitHub and rank the repositories based on the repositories you stared.
+The goal is to scrape data from GitHub and rank the repositories based on the repositories you starred.
 
 The knowledge required is just a basic understanding of coding.
 
@@ -32,7 +32,7 @@ Usually the more good measurements the better final product will be. For this tu
 ## Design the Algorithm
 
 How to score a repository by its quality? What will make you think a repository's quality is high?
-We use scores to measure the quality of repositories. We can only give one star for each repository, but we can take advantage of this information. If we like (star) a repository the author of that repository is likely to be trustable. If any author stars a repository we add a score to it, such as if 3 authors stared the same repository then the repository get 3 scores. We iterate through all the authors then use the scores to sort the repositories and create our personalized Github trending.
+We use scores to measure the quality of repositories. We can only give one star for each repository, but we can take advantage of this information. If we star a repository the author of it is likely to be trustable. If any author stars a repository we add a score to it, such as if 3 authors stared the same repository then the repository get 3 scores. We iterate through all the authors then use the scores to sort the repositories and create our personalized Github trending.
 
 ## The Approach
 
@@ -50,4 +50,3 @@ Let's try to find out the **Minimum Actions to Repeat** first:
 ## Golang
 
 ## Rod
-
