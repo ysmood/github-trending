@@ -16,7 +16,7 @@ Before we do a project, we'd better ask why we want to do it and how to measure 
 ### To Answer the Why
 
 Github has its trending of repositories, but they are mainly based on the stars of everyone, but you are not everyone.
-So it would be nice to create a trending based ourselves to help us to find more high-quality projects that fit our own needs.
+It would be nice to create a trending based on ourselves to help us to find more high-quality projects that fit our own needs.
 
 ### How to Measure
 
@@ -29,10 +29,10 @@ This trending problem can be translated as a sorting problem. We sort the reposi
 It's pretty intuitive to come up with the first question, but if we don't have the second question, it's easy to design something that only works well partially.
 Usually the more good measurements the better final product will be. For this tutorial, we will focus on those two.
 
-## Design the Weight Algorithm
+## Design the Algorithm
 
 How to score a repository by its quality? What will make you think a repository's quality is high?
-For Github we have 
+We use scores to measure the quality of repositories. We can only give one star for each repository, but we can take advantage of this information. If we like (star) a repository the author of that repository is likely to be trustable. If any author stars a repository we add a score to it, such as if 3 authors stared the same repository then the repository get 3 scores. We iterate through all the authors then use the scores to sort the repositories and create our personalized Github trending.
 
 ## The Approach
 
