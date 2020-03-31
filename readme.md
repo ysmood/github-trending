@@ -38,3 +38,16 @@ We use scores to measure the quality of repositories. We can only give one star 
 
 When doing web scraping we usually prefer to use the website's API direct to get the data we care,
 but for beginners, it's usually more intuitive to scrape via the visible HTML pages. This tutorial will focus on HTML based scraping.
+
+For the algorithm above we can use a spreadsheet to record the scores manually by repeating the action of clicking buttons and links on the pages. As long as we can find the repeat pattern of the manual actions we can automate it by programming the browser.
+
+Let's try to find out the **Minimum Actions to Repeat** first:
+
+## HTML
+
+## CSS Selector
+
+## Golang
+
+## Rod
+
