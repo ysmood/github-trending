@@ -37,4 +37,4 @@ We use scores to measure the quality of repositories. We can only give one star 
 ## The Approach
 
 When doing web scraping we usually prefer to use the website's API direct to get the data we care,
-but for beginners, it's usually more intuitive to scrape via the HTML pages. This tutorial will focus on HTML based scraping.
+but for beginners, it's usually more intuitive to scrape via the visible HTML pages. This tutorial will focus on HTML based scraping.
