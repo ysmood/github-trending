@@ -41,7 +41,11 @@ but for beginners, it's usually more intuitive to scrape via the visible HTML pa
 
 For the algorithm above we can use a spreadsheet to record the scores manually by repeating the action of clicking buttons and links on the pages. As long as we can find the repeat pattern of the manual actions we can automate it by programming the browser.
 
-Let's try to find out the **Minimum Actions to Repeat** first:
+Let's try to find out the **Minimum Actions to Repeat** first.
+
+1. Login the [Github](https://github.com/):
+  
+   ![login-github](img/login-github.png)
 
 ## HTML
 
