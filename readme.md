@@ -32,7 +32,7 @@ Usually the more good measurements the better final product will be. For this tu
 ## Design the Algorithm
 
 How to score a repository by its quality? What will make you think a repository's quality is high?
-We use scores to measure the quality of repositories. We can only give one star for each repository, but we can take advantage of this information. If we star a repository the author of it is likely to be trustable. If any author stars a repository we add a score to it, such as if 3 authors stared the same repository then the repository get 3 scores. We iterate through all the authors then use the scores to sort the repositories and create our personalized Github trending.
+Normally we use scores to measure the quality of things. We can try to think of a method to score repositories. Here's my idea. If we star a repository the author of it will be trustable for us. Maybe it's not 100% right but it's not bad to use it as a solution. If any author stars a repository we add a score to it, such as if 3 authors we trust stared the same repository then the repository get 3 scores. We iterate through all the authors then use the scores to sort the repositories and create our personalized Github trending.
 
 ## The Approach
 
