@@ -47,7 +47,7 @@ Let's try to find out the **Minimum Actions to Repeat** first.
   
    ![login-github](img/login-github.png)
 
-1. Choose any project in the list:
+1. Choose one project in the list:
 
    ![stars-page](img/stars-page.png)
 
