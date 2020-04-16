@@ -65,7 +65,7 @@ Let's try to find out the **Minimum Actions to Repeat** first.
 
 1. Collect all the repositories in his or her list.
 
-Now we just need to do the same actions to another project from step-2 again and again until we go through all the projects. We add a score to a repository every time we meet it.
+Now we just need to do the same actions to another project from step-2 again and again until we go through all the projects we stared. We add a score to a repository every time we meet it.
 
 Very easy isn't it?
 
