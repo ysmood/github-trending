@@ -43,9 +43,21 @@ For the algorithm above we can use a spreadsheet to record the scores manually b
 
 Let's try to find out the **Minimum Actions to Repeat** first.
 
-1. Login the [Github](https://github.com/):
+1. Login the [Github](https://github.com/), then goto the stars page:
   
    ![login-github](img/login-github.png)
+
+1. Choose any project in the list:
+
+   ![stars-page](img/stars-page.png)
+
+1. Goto the contributors page:
+
+   ![repo-page](img/repo-page.png)
+
+1. Choose the top contributor:
+
+   ![contributors-page](img/contributors-page.png)
 
 ## HTML
 
