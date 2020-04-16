@@ -63,7 +63,7 @@ Let's try to find out the **Minimum Actions to Repeat** first.
 
    ![contributor-stars-page](img/contributor-stars-page.png)
 
-1. Collect all the repositories in this list.
+1. Collect all the repositories in his or her list.
 
 Now we just need to do the same actions to another project from step-2 again and again until we go through all the projects. We add a score to a repository every time we meet it.
 
