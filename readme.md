@@ -69,7 +69,12 @@ Now we just need to do the same actions to another project from step-2 again and
 
 Very easy isn't it?
 
-## HTML
+## HTML - Hypertext Markup Language
+
+All the webpages are made of [HTML](https://en.wikipedia.org/wiki/HTML).
+We need to understand it before we can automate the web actions.
+
+HTML is just a special language that instruct browser to render the webpage.
 
 ## CSS Selector
 
