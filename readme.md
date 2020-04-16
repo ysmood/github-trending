@@ -74,7 +74,15 @@ Very easy isn't it?
 All the webpages are made of [HTML](https://en.wikipedia.org/wiki/HTML).
 We need to understand it before we can automate the web actions.
 
-HTML is just a special language that instruct browser to render the webpage.
+HTML is just a special language that instruct browser to render the webpage. It uses "markup" to annotate text, images, and other content for display in a Web browser. Here a sample html page:
+
+```html
+<html>
+   <p>
+      <a><a>
+   <p>
+</html>
+```
 
 ## CSS Selector
 
