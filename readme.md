@@ -79,8 +79,8 @@ HTML is just a special language that instruct browser to render the webpage. It 
 ```html
 <html>
    <p>
-      <a><a>
-   <p>
+      <a></a>
+   </p>
 </html>
 ```
 
