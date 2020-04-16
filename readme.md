@@ -72,17 +72,36 @@ Very easy isn't it?
 ## HTML - Hypertext Markup Language
 
 All the webpages are made of [HTML](https://en.wikipedia.org/wiki/HTML).
-We need to understand it before we can automate the web actions.
+We need to understand it before we can automate the web actions. The good thing is that we don't have to learn how to write it, we just need to understand how to read it. So that we can tell the browser which specific button or link we want to click when we write the automation code.
 
-HTML is just a special language that instruct browser to render the webpage. It uses "markup" to annotate text, images, and other content for display in a Web browser. Here a sample html page:
+HTML uses "tags" to annotate text, images, and other content for display in a Web browser.
+For example if I want to render some text, the HTML will look this:
 
 ```html
-<html>
-   <p>
-      <a></a>
-   </p>
-</html>
+<p>my text</p>
 ```
+
+Here `p` is the name of the tag, it's the first letter of paragraph. The `<p>` is the open tag, the `</p>` is the close tag. Like the braces in math, open and close tags have to appear together.
+
+Tags can be nested, such as if we want to put a button in the above paragraph, the HTML will look like this:
+
+```html
+<p>
+   my text and <button>link</button>
+</p>
+```
+
+The `<button>` and `<button/>` will tell the browser to render the `link` inside them as a button.
+
+Let's read some real world HTML first. Open one page we mentioned above in your browser, right click on any link then click `inspect`:
+
+![inspect](img/inspect.png)
+
+You will see something like this:
+
+![html](img/html.png)
+
+Here 
 
 ## CSS Selector
 
